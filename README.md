@@ -52,7 +52,6 @@ This project is designed for **college evaluation systems** and helps students q
 
 ## 🌐 Live Demo (GitHub Pages)
 
-After enabling GitHub Pages, the project will be available at:
 👉 https://ParamjeetSangwan.github.io/academy_evaluator/index.html
 
 
